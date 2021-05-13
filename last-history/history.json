@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "66a92992b59a0e35",
-      "reportUrl" : "https://plresearch999.github.io/cicd-py-example/2//#testresult/66a92992b59a0e35",
+      "uid" : "21a9e47ba97b14a6",
+      "reportUrl" : "https://plresearch999.github.io/cicd-py-example/3//#testresult/21a9e47ba97b14a6",
       "status" : "passed",
       "time" : {
-        "start" : 1620900050459,
-        "stop" : 1620900050459,
-        "duration" : 0
+        "start" : 1620910377909,
+        "stop" : 1620910377910,
+        "duration" : 1
       }
     } ]
   },
@@ -29,32 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6cd030ebb7decf5b",
-      "reportUrl" : "https://plresearch999.github.io/cicd-py-example/2//#testresult/6cd030ebb7decf5b",
+      "uid" : "7fc06ddf2fe0137e",
+      "reportUrl" : "https://plresearch999.github.io/cicd-py-example/3//#testresult/7fc06ddf2fe0137e",
       "status" : "passed",
       "time" : {
-        "start" : 1620900050456,
-        "stop" : 1620900050456,
-        "duration" : 0
-      }
-    } ]
-  },
-  "dcb8fa11fdff83e2daf0e792014a33fe" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "7827716ee8bf6e59",
-      "reportUrl" : "https://plresearch999.github.io/cicd-py-example/2//#testresult/7827716ee8bf6e59",
-      "status" : "passed",
-      "time" : {
-        "start" : 1620900050458,
-        "stop" : 1620900050458,
+        "start" : 1620910377906,
+        "stop" : 1620910377906,
         "duration" : 0
       }
     } ]
@@ -69,13 +49,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1a8babd30acfcedd",
-      "reportUrl" : "https://plresearch999.github.io/cicd-py-example/2//#testresult/1a8babd30acfcedd",
+      "uid" : "399429436351e0ac",
+      "reportUrl" : "https://plresearch999.github.io/cicd-py-example/3//#testresult/399429436351e0ac",
       "status" : "passed",
       "time" : {
-        "start" : 1620900050445,
-        "stop" : 1620900050445,
+        "start" : 1620910377833,
+        "stop" : 1620910377833,
         "duration" : 0
+      }
+    } ]
+  },
+  "dcb8fa11fdff83e2daf0e792014a33fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4103eb6ed02e7770",
+      "reportUrl" : "https://plresearch999.github.io/cicd-py-example/3//#testresult/4103eb6ed02e7770",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620910377907,
+        "stop" : 1620910377908,
+        "duration" : 1
       }
     } ]
   }
