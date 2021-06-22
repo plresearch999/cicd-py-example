@@ -1,0 +1,22 @@
+{
+  "73b11105c0352232a2d6e7cdff856477" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8591514b99dfa35",
+      "reportUrl" : "https://plresearch999.github.io/cicd-py-example/13//#testresult/a8591514b99dfa35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624389156925,
+        "stop" : 1624389161834,
+        "duration" : 4909
+      }
+    } ]
+  }
+}
