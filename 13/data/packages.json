@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "testproject.test_defaultSuite",
+    "children" : [ {
+      "name" : "test_firstTest",
+      "uid" : "a8591514b99dfa35",
+      "parentUid" : "5dbe57f11ab0147cb5df568840d7576a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624389156925,
+        "stop" : 1624389161834,
+        "duration" : 4909
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testproject.test_defaultSuite"
+  } ],
+  "name" : "packages"
+}

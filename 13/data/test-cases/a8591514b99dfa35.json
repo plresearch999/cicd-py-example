@@ -1,0 +1,86 @@
+{
+  "uid" : "a8591514b99dfa35",
+  "name" : "test_firstTest",
+  "fullName" : "testproject.test_defaultSuite.TestDefaultSuite#test_firstTest",
+  "historyId" : "73b11105c0352232a2d6e7cdff856477",
+  "time" : {
+    "start" : 1624389156925,
+    "stop" : 1624389161834,
+    "duration" : 4909
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestDefaultSuite",
+    "time" : {
+      "start" : 1624389141313,
+      "stop" : 1624389156861,
+      "duration" : 15548
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestDefaultSuite::0",
+    "time" : {
+      "start" : 1624389161835,
+      "stop" : 1624389161893,
+      "duration" : 58
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "test_defaultSuite"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDefaultSuite"
+  }, {
+    "name" : "host",
+    "value" : "fv-az83-896"
+  }, {
+    "name" : "thread",
+    "value" : "2795-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.test_defaultSuite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8591514b99dfa35.json",
+  "parameterValues" : [ ]
+}
