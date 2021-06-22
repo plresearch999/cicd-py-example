@@ -11,6 +11,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 # Step 1, add import for options
 from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 import os
 
 
@@ -22,9 +23,9 @@ class TestDefaultSuite():
             chrome_options.add_argument("--disable-extensions")
             chrome_options.add_argument("--headless")
             # Step 3, pass chrome_options object to Chrome() constructor
-            self.driver = webdriver.Chrome(chrome_options=chrome_options)
+            self.driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
         else:
-            self.driver = webdriver.Chrome()
+            self.driver = webdriver.Chrome(ChromeDriverManager().install())
         self.vars = {}
 
     def teardown_method(self, method):
